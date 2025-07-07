@@ -26,7 +26,7 @@ It contains all the essential components needed to quickly access meaningful rob
 
 <picture>
   <source srcset="https://github.com/user-attachments/assets/03ab78e1-08fb-419d-9c58-28b14a277743">
-  <img alt="Shows Puzzlebot views in black or white." width="700" align="right">
+  <img alt="Shows Puzzlebot views in black or white." width="500" align="right">
 </picture>
 
 * **Affordable**: High-quality, low-cost solution for learning robotics.
