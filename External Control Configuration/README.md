@@ -34,7 +34,7 @@
 <br/><br/>
 
 ## Instructions
-
+Follow the instructions inside each external control configuration
 
 
 
