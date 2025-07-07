@@ -60,7 +60,8 @@ The config file can be edited as follows:
 * Go to Start > Device Manager
 * The Serial port should appear as shown in the following figure (The COM port may vary).
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/89541ee4-b827-4fbd-9937-70bfadc89472)
+
 
 * If the computer cannot find the drivers, download the drivers from the following link
 [Drivers](https://ftdichip.com/drivers/vcp-drivers/)
@@ -69,7 +70,7 @@ The config file can be edited as follows:
 
 * Scroll down and download the executable setup as shown in the following figure
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/6f6dc3d1-9bdc-4812-a6db-b1a9829b7c15)
 
 
 ### Before Installing the drivers!!
@@ -94,9 +95,10 @@ Drivers are usually installed automatically by Windows and Ubuntu even for the V
 * Go to Start > Device Manager.
 * Look for the USB Serial Converter as shown in the following picture.
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/2acc67ea-f417-44a0-a43a-e1d8c59b7c38)
 
 * Right Click to Properties > Advanced Tab.
 * Make sure the Load VCP box is checked.
 * Reconnect the Puzzle-Bot to the computer.
-![alt text](image-3.png)
+
+![image](https://github.com/user-attachments/assets/07859b74-fa99-4a97-be46-94230f520b5d)
