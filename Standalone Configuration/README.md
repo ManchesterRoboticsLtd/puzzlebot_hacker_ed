@@ -20,10 +20,11 @@
 ## Introduction
 
 <picture>
-  <source srcset="https://user-images.githubusercontent.com/67285979/232495809-decedd1e-ce71-4ef1-8145-8fd46377d412.png">
+  <source srcset="https://github.com/user-attachments/assets/6f1916a1-bb48-4528-9ca5-13510c7133cf">
   <img alt="Shows Puzzlebot views in black or white." width="400" align="left">
 </picture>
 
+<br/><br/>
 
   * The most basic configuration.
   * The user directly programs the Hackerbard using the Arduino IDE.
@@ -35,9 +36,6 @@
 <br/><br/>
 <br/><br/>
 
-<br/><br/>
-
-<br/><br/>
 
 ## Instructions
   * To use the Puzzlebot in this configuration, follow the instructions on how to Download and install the Arduino IDE in *MCR2_ArduinoIDE_Configuration_Windows_Ubuntu.pdf*
