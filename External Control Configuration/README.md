@@ -1,36 +1,26 @@
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/NVIDIA_logo_BL.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/NVIDIA_logo_WL.jpg">
-  <img alt="Shows Puzzlebot logo in black or white." width="170" align="right">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/MCR2_Logo_White.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/MCR2_Logo_Black.png">
-  <img alt="Shows MCR2 logo in black or white." width="150" align="right">
-</picture>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/Puzzle_Bot_Logo_W.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/Puzzle_Bot_Logo_B.png">
-  <img alt="Shows MCR2 logo in black or white." width="250" align="left">
+  <img alt="Shows MCR2 logo in black or white." width="250" align="right">
 </picture>
 
+ <div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Puzzlebot: External Control configuration </h1>
+    </summary>
+  </ul>
+</div>
 
-
-<br/><br/>
-<br/><br/>
 
 ---
 
-# Puzzlebot: External Control Configuration
-  
+# Introduction
+
 <picture>
-  <source srcset="https://user-images.githubusercontent.com/67285979/232502452-9d5edf07-9c88-4c72-926e-f2e51d8dfa11.png">
+  <source srcset="https://github.com/user-attachments/assets/42529adb-1119-4467-a4cb-96f2c5956d5f">
   <img alt="Shows Puzzlebot views in black or white." width="650" align="right">
 </picture>
 
@@ -39,6 +29,9 @@
 * Basic web interface for configuring and testing provided.
 * MATLAB and LabVIEW libraries for communicating with the robot are provided by MCR2.
 * MATLAB and LabVIEW simulator are provided. No extra libraries for required.
+
+
+<br/><br/>
 
 ## Instructions
 
